@@ -1,0 +1,10 @@
+/*  Global Styles */
+
+.select-a-avatar-wrapper span {
+    transition: all ease .3s;
+}
+
+.select-a-avatar-wrapper span.alert {
+    font-size: 1.05rem!important;
+    color: red!important;
+}

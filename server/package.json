@@ -1,0 +1,19 @@
+{
+  "name": "chat-simancas",
+  "version": "1.0.0",
+  "description": "a simple chat using react, node, express, socket",
+  "main": "index.js",
+  "author": "Hector L. Simancas P.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+    
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "2.3.0"
+  }
+}

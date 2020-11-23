@@ -1,0 +1,14 @@
+{
+  "name": "chat_simancas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm run dev",
+    "dev": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "dependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
