@@ -1,6 +1,48 @@
-# chat-simancas
+# Chat — developed using React, Express and Socket
 ![cover photo](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/1.png?raw=true)
 > a simple chat developed using React, Node, Express, Socket
+
+
+
+
+## This chat allows you
+- [x] Choose an avatar, name, description and status
+- [x] See the information of the members in the room
+- [x] **Talk to the people in the room**
+
+## Repository directory
+* Design: contains all the project design in HTML5 and CSS3 (SASS)
+* Client: contains the entire front-end of the project. Developed with create-react-app
+* Server: contains all the back-end of the project. Developed with Node JS, Express and Socket.
+
+## How to see the project?
+* You can see the project online here: https://hopeful-lovelace-f3ed48.netlify.app/ and talk to your friends
+* Or, you can run it locally:
+
+Download the project code (git clone)
+Go to the client folder (cd client) and run `yarn install` to install all the development dependencies
+Go to the server folder (cd server) and run `yarn install` to install all development dependencies
+
+Finally you can build the local project in two ways:
+
+1. Inside the client folder you can run: `yarn start`, which will bring up the front-end of the project with react on localhost: 3000. Then, go to the server folder and with a new terminal run: `yarn start` or` yarn run start` and the back-end would already be running on port 5050.
+
+2. Go to the main directory, that is, in */chat-simancas* and run: `yarn install` and then run` yarn dev` this will lift both the front-end and the back-end on the aforementioned ports using **concurrently**.
+
+
+
+| Question | Answer |
+| ----------- | ----------- |
+| Database? | No
+| Responsive? | Yes |
+| Socket version | @ 2.3.0 |
+| Context (react) | Yes |
+
+
+
+
+-------------------------------
+
 
 ## Este chat te permite
 - [x] Elegir un avatar, nombre, descripción y estado
@@ -35,7 +77,8 @@ Por ultimo puedes levantar el proyecto local de dos maneras:
 | Versión de Socket | @2.3.0 |
 | Context (react) | Sí |
 
-#### Screenshots about project
+----------------------
+## Screenshots about project
 
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/2.png?raw=true)
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/3.png?raw=true)
