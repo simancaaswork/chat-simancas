@@ -40,5 +40,5 @@ Por ultimo puedes levantar el proyecto local de dos maneras:
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/2.png?raw=true)
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/3.png?raw=true)
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/4.png?raw=true)
-![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/5.png?raw=true)
+![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/5-mobile.png?raw=true)
 ![screenshot](https://github.com/simancaaswork/chat-simancas/blob/master/screenshots/6.png?raw=true)
